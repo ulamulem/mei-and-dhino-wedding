@@ -1,10 +1,10 @@
 {
-  "women": {
-    "nickname": "Lutfi",
-    "fullname": "Lutfi Novitasari"
-  },
   "man": {
-    "nickname": "Adi",
-    "fullname": "Pujiantoro Adi Saputro"
+    "nickname": "Dhino",
+    "fullname": "Ngadhino (Dhino)"
+  },
+  "women": {
+    "nickname": "Mei",
+    "fullname": "Siti Maesaroh (Mei)"
   }
 }
